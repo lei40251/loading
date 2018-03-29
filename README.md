@@ -1,2 +1,3 @@
-# loading
-js实现资源预加载及进度显示
+# 资源预加载进度显示
+
+## 用到 async await fetch
